@@ -11,5 +11,5 @@
 # Formações
 
 [![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.youtube.com/channel/UC08GljABKIj_bLmW5eRUWWQ)
-[![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://www.youtube.com/channel/UC08GljABKIj_bLmW5eRUWWQ)
+[![html](https://img.shields.io/badge/HTML-FF7400?style=for-the-badge&logo=html5&logoColor=white)](https://www.youtube.com/channel/UC08GljABKIj_bLmW5eRUWWQ)
 [![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://www.youtube.com/channel/UC08GljABKIj_bLmW5eRUWWQ)
