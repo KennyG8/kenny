@@ -1,10 +1,6 @@
 # Profile
 
-### Olá, eu nãoexisto!
-- ⭐Programando basicamente quase 24 por dia.
-- ⭐ Não tenho nome.
-- ⭐ Não tenho idade.
-- ⭐ Apenas não existo.
+### Olá, me chamo Kenny G
 
 ---
 [![likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%A3o-existo-375b1721a/)
